@@ -31,4 +31,6 @@
     <string name="content_13">Género: Acción, Fantasía oscura, Thriller psicológico Creado Por: Yuji Kaku Resumen: En el Japón del periodo Edo, Gabimaru, un ninja ...</string>
     <string name="content_14">Es una herramienta de diagramación en línea gratuita y fácil de usar que le permite crear una variedad de diagramas, ...</string>
     <string name="content_15">En la era digital actual, la necesidad de escanear documentos de forma rápida y eficaz se ha convertido en una ...</string>
+
+    <string name="expand_button_content_description">Ver más o menos información acerca de la entrada seleccionada.</string>
 </resources>
