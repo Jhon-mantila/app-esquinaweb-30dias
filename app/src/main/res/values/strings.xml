@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Esquina Web 30 días</string>
+    <string name="title_1">YDRAY: Una solución eficaz para compartir archivos de gran tamaño</string>
+    <string name="title_2">Explora PNGEgg: tu fuente de imágenes PNG</string>
+    <string name="title_3">Revive tus juegos retro con Delta Emulador en iPhone Gratis</string>
+    <string name="title_4">TinyWow.com: Una Caja de Herramientas Digitales para la Edición y Conversión de Archivos</string>
+    <string name="title_5">Anime | The Case Study of Vanitas | Temporada 1</string>
+    <string name="title_6">Anime | Tower of god | Temporada 1</string>
+    <string name="title_7">Counter-Strike 2: La evolución del FPS Classico</string>
+    <string name="title_8">Eliminador de Voz y Aislamiento: Vocal Remover</string>
+    <string name="title_9">Itch.io: Una plataforma de videojuegos independiente para creadores sin fronteras</string>
+    <string name="title_10">¡Explora el mundo de la creatividad con Powtoon!</string>
+    <string name="title_11">SVG REPO: Una gran libreria de vectores y iconos gratuitos</string>
+    <string name="title_12">RecCloud: Uso de inteligencia artificial para impulsar la creación de contenido multimedia</string>
+    <string name="title_13">Anime | Hell’s Paradise: Jigokuraku | Temporada 1</string>
+    <string name="title_14">Draw.io: La herramienta de diagramación en línea gratuita que necesitas</string>
+    <string name="title_15">CamScanner: La mejor solución para escanear desde dispositivos móviles</string>
+
+    <string name="content_1">En la era digital, compartir archivos de gran tamaño se ha convertido en una necesidad diaria tanto para los profesionales ...</string>
+    <string name="content_2">PNGEgg es una plataforma web con reputación de fuente confiable de imágenes PNG de alta calidad. Con una variedad de ...</string>
+    <string name="content_3">¿Eres un nostálgico de los videojuegos retro? ¿Te apetece revivir las aventuras de Super Mario, Pokémon o The Legend of ...</string>
+    <string name="content_4">TinyWow ofrece más de 150 herramientas en línea gratuitas para editar y convertir varios formatos de archivos como PDF, películas, ...</string>
+    <string name="content_5">Género: Acción, Fantasía oscura, Ficción, Sobrenatural, Shonen Creado Por: Jun Mochizuki Resumen: La historia comienza en parís del siglo XIX, ...</string>
+    <string name="content_6">Género: Acción, aventura, drama, fantasía oscura, misterio. Creado Por: Lee Jong Hui (Slave in Utero; SIU) Resumen: La torre de ...</string>
+    <string name="content_7">Counter-Strike 2 (CS2), la última entrega de la legendaria serie de disparos en primera persona, llegó a Steam y capturó ...</string>
+    <string name="content_8">Seguimos con los temas de IA y este turno le toco a la música. Por acá voy a dejar una app que te permite separar la voz de la música de una canción ...</string>
+    <string name="content_9">Un sitio web donde los usuarios pueden encontrar, compartir y descargar juegos independientes . El sitio web ofrece una variedad ...</string>
+    <string name="content_10">¿Alguna vez has querido hacer realidad tus ideas de una manera divertida y visualmente impresionante? ¡Entonces Powtoon es la herramienta ...</string>
+    <string name="content_11">SVG Repo es una gran biblioteca online que ofrece una amplia colección de vectores y iconos gratuitos en formato SVG ...</string>
+    <string name="content_12">En la era digital actual, la creación y edición de contenido multimedia se ha convertido en una parte esencial de ...</string>
+    <string name="content_13">Género: Acción, Fantasía oscura, Thriller psicológico Creado Por: Yuji Kaku Resumen: En el Japón del periodo Edo, Gabimaru, un ninja ...</string>
+    <string name="content_14">Es una herramienta de diagramación en línea gratuita y fácil de usar que le permite crear una variedad de diagramas, ...</string>
+    <string name="content_15">En la era digital actual, la necesidad de escanear documentos de forma rápida y eficaz se ha convertido en una ...</string>
+</resources>
